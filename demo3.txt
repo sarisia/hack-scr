@@ -1,0 +1,6 @@
+!!!code
+if panic command is given,
+all other lines will be ignored.
+!!!end
+
+!!!panic

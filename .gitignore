@@ -1,0 +1,7 @@
+.*
+!.gitignore
+
+*.dll
+*.scr
+lib
+include

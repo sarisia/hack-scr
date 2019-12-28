@@ -1,0 +1,21 @@
+!!!code
+random window
+random window
+random window
+random window
+!!!end
+
+!!!code windows
+windows window
+!!!file Makefile
+!!!end
+
+!!!code mac
+mac window
+!!!file window.txt
+!!!end
+
+!!!code linux
+linux window
+!!!file hack.cpp
+!!!end
